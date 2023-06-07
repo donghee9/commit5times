@@ -7,3 +7,5 @@
 
 -git commit 명령은 
 프로젝트의 현재 스테이징된 변경 사항의 스냅샷을 캡처합니다.
+
+-git push 는 로컬 브랜치(local branch)를 원격 저장소(remote repository)로 푸시할 때 사용하는 기본 명령어입니다
